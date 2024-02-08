@@ -5,8 +5,7 @@
 - 👨‍💻  I'm a **Mobile Engineer**.
 - 🔭  I’m currently working at [New School](https://apps.apple.com/br/app/new-school/id1503840666).
 - 📖  As an always learner, I'm curious to learn a bit of everything.
-- 📫  How to reach me: [Email](mailto:thiagodias.contact@gmail.com)
-- 😄  Pronouns: He/His
+- 📫  How to reach me: [Email](mailto:thiagodias.contact@gmail.com).
 
 **Languages and Tools:**  
 
