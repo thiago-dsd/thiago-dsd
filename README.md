@@ -8,6 +8,8 @@
 
 <br><br>
 <p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-dsd" alt="mystreak"/>
+[![Thiago StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=23261274)](https://stackoverflow.com/users/23261274/thiago-dias)
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiago-dsd&show_icons=true">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiago-dsd&layout=compact"/>
 </p>
