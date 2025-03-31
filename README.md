@@ -2,8 +2,7 @@
 
  <p>Me chamo Thiago, atualmente trabalho com Python (FastAPI+Langchain+Langraph).
    Aqui você irá encontrar várias das coisas que produzi nos últimos anos, que vão desde Agentes de IA feitos em Python
-   até aplicativos Mobile feitos em Flutter. Sinta-se a vontade para navegar no meu mundo! Se tiver alguma dúvida,
-   sinta-se a vontade para conversar comigo no Linkedin.
+   até aplicativos Mobile feitos em Flutter. Sinta-se a vontade para navegar no meu mundo!
 </p>
 
 <h4>Bora se conectar?</h4>
