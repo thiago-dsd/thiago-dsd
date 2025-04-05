@@ -13,7 +13,6 @@
 
 <br><br>
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-dsd" alt="mystreak"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiago-dsd&show_icons=true">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiago-dsd&layout=compact"/>
 </p>
